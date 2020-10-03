@@ -1,0 +1,7 @@
+.picStyle{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
